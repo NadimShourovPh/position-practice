@@ -36,7 +36,8 @@ footer h6{
 }
 .main{
     position: relative;
-    height: 28vh;
+    min-height: 28vh;
+    background-color: blanchedalmond;
 }
 
 .part-1 {
@@ -172,3 +173,28 @@ footer h6{
     padding: 20px;
 }
 /* ..............sec-5 end here................. */
+.stiker-main{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+
+}
+.stiker-1{
+    padding: 20px;
+    background-color: bisque;
+    width: 40%;
+    position: relative;
+}
+.stiker-2{
+    padding: 20px;
+    background-color: bisque;
+    width: 40%;
+}
+.stiker-logo{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color: chartreuse;
+    top: -30px;
+    right: -10px;
+}

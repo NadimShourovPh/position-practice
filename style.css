@@ -1,0 +1,174 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.logo {
+/* border-radius: 50%; */
+
+text-align: center;
+padding: 10px;
+color: rgb(255, 255, 255);
+background-color: rgb(8, 8, 8);
+width: 100%;
+position: fixed;
+}
+section{
+    margin-top: 20px;
+}
+
+header h6{
+    background-color: blue;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+}
+/* footer{
+    position: relative;
+} */
+footer h6{
+    background-color: blue;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.main{
+    position: relative;
+    height: 28vh;
+}
+
+.part-1 {
+    width: 33.33%;
+    background-color: aqua;
+    position: absolute;
+  left: 0;
+    padding: 20px;
+
+}
+
+.part-2 {
+    width: 33.33%;
+    background-color: rgb(231, 56, 21);
+    position: absolute;
+    left: 33.33%;
+    padding: 20px;
+
+}
+
+.part-3 {
+    width: 33.33%;
+    background-color: rgb(203, 226, 26);
+    position: absolute;
+    right: 0;
+    padding: 20px;
+}
+/* ..............sec-2 start here................. */
+.sec-2-part-1 {
+    width: 33.33%;
+    background-color: aqua;
+    position: absolute;
+    right: 0;
+    padding: 20px;
+
+}
+
+.sec-2-part-2 {
+    width: 33.33%;
+    background-color: rgb(231, 56, 21);
+    position: absolute;
+    left: 33.33%;
+    padding: 20px;
+
+}
+
+.sec-2-part-3 {
+    width: 33.33%;
+    background-color: rgb(203, 226, 26);
+    position: absolute;
+    left: 0;
+    padding: 20px;
+}
+/* ..............sec-2 end here................. */
+/* ..............sec-3 start here................. */
+.sec-3-part-1 {
+    width: 33.33%;
+    background-color: aqua;
+    position: absolute;
+    right: 0;
+    padding: 20px;
+
+}
+
+.sec-3-part-2 {
+    width: 33.33%;
+    background-color: rgb(231, 56, 21);
+    position: absolute;
+    left: 0;
+    padding: 20px;
+
+}
+
+.sec-3-part-3 {
+    width: 33.33%;
+    background-color: rgb(203, 226, 26);
+    position: absolute;
+    left: 33.33%;
+    padding: 20px;
+}
+/* ..............sec-3 end here................. */
+/* ..............sec-4 start here................. */
+.sec-4-part-1 {
+    width: 33.33%;
+    background-color: aqua;
+    position: absolute;
+    left: 33.33%;
+    padding: 20px;
+
+}
+
+.sec-4-part-2 {
+    width: 33.33%;
+    background-color: rgb(231, 56, 21);
+    position: absolute;
+    left: 0;
+    padding: 20px;
+
+}
+
+.sec-4-part-3 {
+    width: 33.33%;
+    background-color: rgb(203, 226, 26);
+    position: absolute;
+    right: 0;
+    padding: 20px;
+}
+/* ..............sec-4 end here................. */
+/* ..............sec-5 start here................. */
+.sec-5-part-1 {
+    width: 33.33%;
+    background-color: aqua;
+    position: absolute;
+    left: 33.33%;
+    padding: 20px;
+
+}
+
+.sec-5-part-2 {
+    width: 33.33%;
+    background-color: rgb(231, 56, 21);
+    position: absolute;
+    right: 0;
+    padding: 20px;
+
+}
+
+.sec-5-part-3 {
+    width: 33.33%;
+    background-color: rgb(203, 226, 26);
+    position: absolute;
+    left: 0;
+    padding: 20px;
+}
+/* ..............sec-5 end here................. */
